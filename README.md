@@ -4,4 +4,4 @@ I am a Geneticist
 
 I am interested in R studio and Python
 
-You can sk me anything
+You can ask me anything

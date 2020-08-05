@@ -1,5 +1,7 @@
 # I am Oluwatosin
 
-This is my first try on GIT Hub
+I am a Geneticist
 
-I am learning markdown
+I am interested in R studio and Python
+
+You can sk me anything
